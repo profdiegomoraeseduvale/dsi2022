@@ -1,0 +1,18 @@
+.titulo{
+    color: black;
+    text-align: center;
+}
+
+.subtitulo {
+    color: black;
+}
+
+.inputvalor {
+    width: 300px;
+    text-align: center;
+}
+
+.botao {
+    width: 100%;   
+}
+
