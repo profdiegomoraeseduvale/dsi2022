@@ -1,0 +1,27 @@
+.backgroundteste{
+    border-style: solid;
+    border: 1px;
+    border-color: black;
+    border-radius: 10px;
+    color: blue;
+}
+
+.titulo{
+    color: black;
+    text-align: center;
+}
+
+.botao{
+    width: 100%;
+}
+
+#alerta{
+    color: black;
+    text-align: center;
+}
+
+
+
+
+
+
